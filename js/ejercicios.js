@@ -1,30 +1,30 @@
 //EJERCICIO 1
-document.write('Ejercicio 1 <br>')
+document.write('<span class="greenBg">Ejercicio 1</span> <br>')
 let numero1 = 9;
 let numero2 = 12;
 let suma = numero1 + numero2;
-document.write('La suma entre los numeros: ' + numero1 +' y ' + numero2 + ' es igual a: '+ suma + '<br>');
+document.write(numero1+ ' + '+ numero2+' = '+suma +'<br>' );
 let resta = numero1 - numero2;
-document.write('La resta entre los numeros: ' + numero1 +' y ' + numero2 + ' es igual a: '+ resta + '<br>');
+document.write(numero1+ ' - '+ numero2+' = '+resta+'<br>' );
 let multiplicacion = numero1 * numero2;
-document.write('La multiplicacion entre los numeros: ' + numero1 +' y ' + numero2 + ' es igual a: '+  multiplicacion + '<br>');
+document.write(numero1+ ' * '+ numero2+' = '+ multiplicacion +'<br>' );
 let division = numero1 / numero2;
-document.write('La division entre los numeros: ' + numero1 +' y ' + numero2 + ' es igual a: ' + (division) + '<br>');
+document.write(numero1+ ' / '+ numero2+' = '+division+'<br>' );
 
 
 //Ejercicio 2
-document.write('<br>Ejercicio 2 <br>')
+document.write('<span class="greenBg">Ejercicio 2</span> <br>')
 
 let nombre = 'Hernan ';
 let apellido = 'Soria';
 let nombreCompleto = nombre + apellido
-document.write(nombreCompleto)
+document.write('Nombre completo: '+nombreCompleto+'<br>')
 
 //Ejercicio 3
-document.write('<br>Ejercicio 3 <br>')
+document.write('<span class="greenBg">Ejercicio 3</span> <br>')
 let gradosC = 31
 let gradosF = (gradosC * 9/5 )+ 32
 
-document.write(gradosC+'° Celcius es igual a ' +  gradosF + '° Fahrenheit')
+document.write(gradosC+'° Celcius = ' +  gradosF + '° Fahrenheit')
 
 
