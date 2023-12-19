@@ -20,6 +20,11 @@ let apellido = 'Soria';
 let nombreCompleto = nombre + apellido
 document.write(nombreCompleto)
 
+//Ejercicio 3
+document.write('<br>Ejercicio 3 <br>')
+let gradosC = 31
+let gradosF = (gradosC * 9/5 )+ 32
 
+document.write(gradosC+'° Celcius es igual a ' +  gradosF + '° Fahrenheit')
 
 
