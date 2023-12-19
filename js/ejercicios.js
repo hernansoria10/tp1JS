@@ -9,5 +9,17 @@ document.write('La resta entre los numeros: ' + numero1 +' y ' + numero2 + ' es 
 let multiplicacion = numero1 * numero2;
 document.write('La multiplicacion entre los numeros: ' + numero1 +' y ' + numero2 + ' es igual a: '+  multiplicacion + '<br>');
 let division = numero1 / numero2;
-document.write('La division entre los numeros: ' + numero1 +' y ' + numero2 + ' es igual a: ' + (division) + '<br>')
+document.write('La division entre los numeros: ' + numero1 +' y ' + numero2 + ' es igual a: ' + (division) + '<br>');
+
+
+//Ejercicio 2
+document.write('<br>Ejercicio 2 <br>')
+
+let nombre = 'Hernan ';
+let apellido = 'Soria';
+let nombreCompleto = nombre + apellido
+document.write(nombreCompleto)
+
+
+
 
