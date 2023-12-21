@@ -1,3 +1,5 @@
+// ESTOS EJERCICIOS SON LOS EJERCICOS PARA  ENTREGAR EL 20/12/2023
+
 //EJERCICIO 1
 document.write('<span class="greenBg">Ejercicio 1</span> <br>')
 let numero1 = 9;
