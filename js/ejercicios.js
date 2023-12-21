@@ -22,7 +22,7 @@ document.write('Nombre completo: '+nombreCompleto+'<br>')
 
 //Ejercicio 3
 document.write('<span class="greenBg">Ejercicio 3</span> <br>')
-let gradosC = 31
+let gradosC = 22
 let gradosF = (gradosC * 9/5 )+ 32
 
 document.write(gradosC+'° Celcius = ' +  gradosF + '° Fahrenheit')
