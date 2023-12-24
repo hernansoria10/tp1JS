@@ -9,5 +9,5 @@ if (numero1 > numero2 && numero1 > numero3) {
 } else if (numero3 > numero1 && numero3 > numero2) {
   document.write(numero3 + " es el mayor de los tres ");
 } else {
-  document.write("son iguales");
+  document.write("los 3 numeros, o por lo menos 2 de ellos son iguales");
 }
