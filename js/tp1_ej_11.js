@@ -17,7 +17,7 @@ if(div2 == 0){
 }
 else if(div3 == 0){
     document.write(`${Numero} es divisible por 3 `);
-    if (div3 == 0){
+    if (div2 == 0){
         document.write (`es divisible por 2`)
     }
     if (div5 == 0){
@@ -33,7 +33,7 @@ else if(div5 == 0){
     if (div3 == 0){
         document.write (`es divisible por 3`)
     }
-    if (div5 == 0){
+    if (div2 == 0){
         document.write (`, divisible por 2`)
     }
     if (div7 == 0){
@@ -49,7 +49,7 @@ else if(div7 == 0){
     if (div5 == 0){
         document.write (`divisible por 5`)
     }
-    if (div7 == 0){
+    if (div2 == 0){
         document.write (`y por 2`)  
     }
 
