@@ -9,4 +9,4 @@ if (vocales) {
     alert(resultado);
 } else {
     alert("No se encontraron vocales en la frase ingresada.");
-}
+} 
