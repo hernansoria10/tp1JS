@@ -1,7 +1,7 @@
 var frase = prompt("Ingresa una frase:");
 
 
-var vocales = frase.match(/[aeiouAEIOUáéíóúü]/gi);
+var vocales = frase.match(/[aeiouAEIOUáéíóúü]/);
 
 
 if (vocales) {
